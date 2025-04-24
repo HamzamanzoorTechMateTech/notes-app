@@ -1,8 +1,8 @@
 # How to setup this project
 
-#Project details
+# Project details
 - Backend is located in the `server/` folder  
-- Frontend is in the `client/` folder (built with Create React App)  
+- Frontend is in the `client/` folder 
 - MongoDB is configured to run locally
 
 # important info
